@@ -1,7 +1,7 @@
 ## 1. Welcome  
 Welcome to the DevOps recruitment test. In this test you are given an incomplete project.    
 To ensure we can see the progress you make please paste the given identifier in the following section:  
-    ![alt text](https://github.com/SybrinDevOps/RecruitementTest/tree/master/images/guid.png)
+    ![guid](https://github.com/SybrinDevOps/RecruitementTest/tree/master/images/guid.png)  
 Your goals are as follows:  
 ## 2. Solution Breakdown
 * Result Application = Node.js    
