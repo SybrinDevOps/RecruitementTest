@@ -1,7 +1,7 @@
 ## 1. Welcome  
 Welcome to the DevOps recruitment test. In this test you are given an incomplete project.    
 To ensure we can see the progress you make please paste the given identifier in the following section:  
-  
+    ![alt text](https://github.com/SybrinDevOps/RecruitementTest/tree/master/images/guid.png)
 Your goals are as follows:  
 ## 2. Solution Breakdown
 * Result Application = Node.js    
@@ -23,6 +23,7 @@ Your goals are as follows:
     * Enable cross container communication  
     * Test the solution  
 * Containerize the solution (links added to get you going)  
+    * Docker Basics: [Link](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
     * Containerizing .NET: [Link](https://docs.docker.com/engine/examples/dotnetcore/#prerequisites)  
     * Containerizing Jenkins: [Link](https://github.com/jenkinsci/docker/blob/master/README.md)  
     * Containerizing Redis: [Link](https://hub.docker.com/_/redis)  
@@ -33,7 +34,7 @@ Your goals are as follows:
 ## 3. Notes
 
 * You may choose how to containerize the solution  
-* Redis connection string will like this:   
+* Redis connection string will look similar to this:   
     ```localhost, connectTimeout=5000, syncTimeout=5000```  
 * Use container-based Jenkins  
 * Make On  

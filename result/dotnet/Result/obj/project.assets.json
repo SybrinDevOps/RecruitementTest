@@ -17,11 +17,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\DevOps\\Test\\example-voting-app-master\\example-voting-app-master\\result\\dotnet\\Result\\Result.csproj",
+      "projectUniqueName": "C:\\DevOps\\github\\RecruitementTest\\result\\dotnet\\Result\\Result.csproj",
       "projectName": "Result",
-      "projectPath": "C:\\DevOps\\Test\\example-voting-app-master\\example-voting-app-master\\result\\dotnet\\Result\\Result.csproj",
+      "projectPath": "C:\\DevOps\\github\\RecruitementTest\\result\\dotnet\\Result\\Result.csproj",
       "packagesPath": "C:\\Users\\jbornman\\.nuget\\packages\\",
-      "outputPath": "C:\\DevOps\\Test\\example-voting-app-master\\example-voting-app-master\\result\\dotnet\\Result\\obj\\",
+      "outputPath": "C:\\DevOps\\github\\RecruitementTest\\result\\dotnet\\Result\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
